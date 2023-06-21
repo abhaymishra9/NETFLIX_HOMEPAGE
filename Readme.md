@@ -23,6 +23,10 @@ cd netflix-homepage-clone
 
 3. The clone may also include interactive elements like search bars, sliders, or buttons. Feel free to interact with these elements to simulate the experience of searching for content or adjusting preferences.
 
+## Screenshots
+
+![Screenshot (114)](https://github.com/abhaymishra9/NETFLIX_HOMEPAGE/assets/98744759/661c2528-72c9-4cf6-a27d-b50ae44a46c9)
+
 ## Contributing
 
 Contributions to the project are welcome! 
